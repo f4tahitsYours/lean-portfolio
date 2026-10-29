@@ -245,7 +245,7 @@ export default function App() {
 
           {/* Tagline / Bio */}
           <p className="text-xs sm:text-base md:text-lg text-gray-400 max-w-2xl mx-auto mb-6 sm:mb-10 leading-relaxed px-4">
-            Final-year Computer Science student at <span className="text-white hover:text-brand-accent transition">Universitas Nusa Cendana</span> (Kupang, Indonesia) specializing in Deep Learning, NLP, and Computer Vision. Dedicated to turning state-of-the-art AI research into tangible, high-performance web applications.
+            AI & Machine Learning enthusiast specializing in Deep Learning, NLP, and <span className="text-white hover:text-brand-accent transition">Computer Vision</span>. Passionate about building intelligent solutions that transform data into real-world impact.
           </p>
 
           {/* CTA Action Buttons */}
@@ -746,7 +746,7 @@ export default function App() {
             <div className="lg:col-span-2 space-y-6" data-aos="fade-right">
               <h3 className="font-display font-bold text-xl text-white">Contact Details</h3>
               <p className="text-sm text-gray-400 leading-relaxed mb-6">
-                Have any project ideas, research papers, or internships to discuss? Drop me a line directly through email or connect with me via Github/LinkedIn!
+                Have an AI project or exciting opportunity in mind? Let's connect, collaborate, and build something impactful together. Feel free to reach out via email or connect with me on GitHub and LinkedIn.
               </p>
 
               {/* Card: Email */}
@@ -803,7 +803,7 @@ export default function App() {
                       id="name"
                       name="name"
                       required
-                      placeholder="John Doe"
+                      placeholder="Your Full Name"
                       className="w-full px-4 py-3 rounded-xl bg-dark-900 border border-white/10 text-sm text-white focus:border-brand-500 focus:outline-none transition-all"
                     />
                   </div>
@@ -818,7 +818,7 @@ export default function App() {
                       id="email"
                       name="email"
                       required
-                      placeholder="johndoe@gmail.com"
+                      placeholder="you@example.com"
                       className="w-full px-4 py-3 rounded-xl bg-dark-900 border border-white/10 text-sm text-white focus:border-brand-500 focus:outline-none transition-all"
                     />
                   </div>
@@ -834,7 +834,7 @@ export default function App() {
                     id="subject"
                     name="subject"
                     required
-                    placeholder="Research proposal / job opportunity"
+                    placeholder="Project collaboration / Job opportunity"
                     className="w-full px-4 py-3 rounded-xl bg-dark-900 border border-white/10 text-sm text-white focus:border-brand-500 focus:outline-none transition-all"
                   />
                 </div>
@@ -849,7 +849,7 @@ export default function App() {
                     name="message"
                     rows={5}
                     required
-                    placeholder="Hi Leanders, I would love to talk about..."
+                    placeholder="Hi Fatahillah, I would love to talk about..."
                     className="w-full px-4 py-3 rounded-xl bg-dark-900 border border-white/10 text-sm text-white focus:border-brand-500 focus:outline-none transition-all resize-none"
                   ></textarea>
                 </div>
@@ -872,10 +872,10 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <p className="font-display font-semibold text-sm tracking-widest text-white/90 mb-4">&copy; 2026 SULTAN SYAH FATAHILLAH</p>
           <p className="text-xs text-gray-500 font-mono">
-            Built with React, TypeScript, Tailwind CSS, and AOS.js. Ready for deployment.
+            Turning data into intelligence through AI and Machine Learning.
           </p>
           <p className="text-[10px] text-gray-600 font-mono mt-1">
-            Also known as <span className="text-gray-400 font-semibold">Leanders</span> • Universitas Nusa Cendana, Indonesia
+            Also known as <span className="text-gray-400 font-semibold">Fatahillah</span> • AI & Machine Learning, Indonesia
           </p>
         </div>
       </footer>
