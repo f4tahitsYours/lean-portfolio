@@ -228,7 +228,7 @@ export default function App() {
 
           {/* Full Name */}
           <h1 className="font-display font-extrabold text-2xl sm:text-4xl md:text-5xl lg:text-6xl tracking-tight text-white leading-tight mb-3 sm:mb-4 px-4 break-words">
-            Nuruddin Sulthon Syah Fatahillah Rahmani
+            Sultan Syah Fatahillah
           </h1>
 
           {/* Nickname / Moniker Badge */}
@@ -778,7 +778,7 @@ export default function App() {
                 </div>
                 <div>
                   <span className="block text-[10px] font-mono tracking-wider text-gray-500 uppercase">LinkedIn</span>
-                  <a href="https://www.linkedin.com/in/nuruddin-sulthon-syah-fatahillah-rahmani-35765829b/?locale=in" target="_blank" rel="noopener noreferrer" className="text-sm font-semibold text-gray-200 hover:text-brand-accent transition">Nuruddin Sulthon Syah Fatahillah Rahmani</a>
+                  <a href="https://www.linkedin.com/in/nuruddin-sulthon-syah-fatahillah-rahmani-35765829b/?locale=in" target="_blank" rel="noopener noreferrer" className="text-sm font-semibold text-gray-200 hover:text-brand-accent transition">Sultan Syah Fatahillah</a>
                 </div>
               </div>
             </div>
@@ -870,7 +870,7 @@ export default function App() {
       {/* FOOTER */}
       <footer className="py-12 border-t border-white/5 text-center relative z-10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <p className="font-display font-semibold text-sm tracking-widest text-white/90 mb-4">&copy; 2026 NURUDDIN SULTHON SYAH FATAHILLAH RAHMANI</p>
+          <p className="font-display font-semibold text-sm tracking-widest text-white/90 mb-4">&copy; 2026 SULTAN SYAH FATAHILLAH</p>
           <p className="text-xs text-gray-500 font-mono">
             Built with React, TypeScript, Tailwind CSS, and AOS.js. Ready for deployment.
           </p>
