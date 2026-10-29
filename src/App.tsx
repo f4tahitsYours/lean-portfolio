@@ -233,7 +233,7 @@ export default function App() {
 
           {/* Nickname / Moniker Badge */}
           <p className="text-sm font-semibold tracking-wider text-brand-accent font-mono mb-4 sm:mb-6">
-            KNOW AS <span className="underline decoration-wavy underline-offset-4 text-white">LEANDERS</span>
+            KNOW AS <span className="underline decoration-wavy underline-offset-4 text-white">FATAHILLAH</span>
           </p>
 
           {/* Animated Typing Title */}
