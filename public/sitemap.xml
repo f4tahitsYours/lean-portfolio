@@ -1,76 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  
-  <!-- Homepage with Project Images -->
-  <url>
-    <loc>https://sultanfatahillah.my.id/</loc>
-    <lastmod>2026-10-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-    
-    <!-- Project 1: Industrial Defect Detection -->
-    <image:image>
-      <image:loc>https://sultanfatahillah.my.id/projects/project%201.png</image:loc>
-      <image:title>Unsupervised Industrial Defect Detection on MVTec AD Benchmark</image:title>
-      <image:caption>Comparative Analysis of Reconstruction-Based and Memory-Bank Approaches with Anomaly Localization using PatchCore and Convolutional Autoencoder</image:caption>
-    </image:image>
-    
-    <!-- Project 2: Indonesian Sentence Embeddings -->
-    <image:image>
-      <image:loc>https://sultanfatahillah.my.id/projects/project%202.png</image:loc>
-      <image:title>Optimizing Indonesian Sentence Embeddings for Semantic Textual Similarity</image:title>
-      <image:caption>A Contrastive Fine-Tuning Study with Hard Negative Mining using IndoBERT and Sentence Transformers</image:caption>
-    </image:image>
-    
-    <!-- Project 3: Emoji Pragmatic Signals -->
-    <image:image>
-      <image:loc>https://sultanfatahillah.my.id/projects/project%203.png</image:loc>
-      <image:title>Modeling Emoji as Pragmatic Signals in Social Media Text Using a Hybrid Transformer–Graph Neural Network Architecture</image:title>
-      <image:caption>EPGT: Emoji-aware Graph Neural Network + Transformer for Hate Speech Detection</image:caption>
-    </image:image>
-    
-    <!-- Project 4: Sarcasm Intensity Classification -->
-    <image:image>
-      <image:loc>https://sultanfatahillah.my.id/projects/project%204.png</image:loc>
-      <image:title>Multi-Level Sarcasm Intensity Classification in Indonesian Social Media Using Hybrid Weak Supervision and Transformer-Based Models</image:title>
-      <image:caption>HSIL Framework for Indonesian Sarcasm Intensity Modeling with IndoBERT and XLM-R</image:caption>
-    </image:image>
-    
-    <!-- Project 5: Noise-Robust Sentiment Classification -->
-    <image:image>
-      <image:loc>https://sultanfatahillah.my.id/projects/project%205.png</image:loc>
-      <image:title>Evaluasi Robustness Model Sentimen Bahasa Indonesia terhadap Noise Sintetis Menggunakan Arsitektur Hybrid Word-Character Lightweight</image:title>
-      <image:caption>Hybrid Word-Character Architecture for Noise-Robust Sentiment Classification in Indonesian Twitter</image:caption>
-    </image:image>
-    
-    <!-- Project 6: Plant Disease Classification -->
-    <image:image>
-      <image:loc>https://sultanfatahillah.my.id/projects/project%206.png</image:loc>
-      <image:title>Klasifikasi Penyakit Daun Tanaman Menggunakan Convolutional Neural Network dengan Preprocessing Citra Digital</image:title>
-      <image:caption>Comparative Study of MobileNetV2 and EfficientNet-B0 on PlantVillage Dataset</image:caption>
-    </image:image>
-    
-    <!-- Project 7: News Article Classification -->
-    <image:image>
-      <image:loc>https://sultanfatahillah.my.id/projects/project%207.png</image:loc>
-      <image:title>Multi-Class News Article Classification System Using an RNN-Based Bidirectional LSTM Model</image:title>
-      <image:caption>BiLSTM-Based Sequential Modeling for Automated News Categorization</image:caption>
-    </image:image>
-    
-    <!-- Project 8: Book Recommendation System -->
-    <image:image>
-      <image:loc>https://sultanfatahillah.my.id/projects/project%208.png</image:loc>
-      <image:title>Sistem Rekomendasi Buku Berbasis Collaborative Filtering dengan Pendekatan Deep Learning</image:title>
-      <image:caption>Neural Collaborative Filtering for Personalized Book Recommendations using PyTorch</image:caption>
-    </image:image>
-    
-    <!-- Project 9: Stock Price Prediction -->
-    <image:image>
-      <image:loc>https://sultanfatahillah.my.id/projects/project%209.png</image:loc>
-      <image:title>Prediksi Harga Saham Menggunakan LSTM dan Analisis Sentimen Berita Finansial</image:title>
-      <image:caption>Multimodal Stock Price Prediction with LSTM and News Sentiment Analysis on Indonesian Stock Market</image:caption>
-    </image:image>
-  </url>
 
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+    <!-- Homepage with Project Images -->
+    <url>
+        <loc>https://www.sultanfatahillah.my.id/</loc>
+        <lastmod>2026-10-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+
+        <!-- Project 1: Industrial Defect Detection -->
+        <image:image>
+            <image:loc>https://www.sultanfatahillah.my.id/projects/project%201.png</image:loc>
+            <image:title>Unsupervised Industrial Defect Detection on MVTec AD Benchmark</image:title>
+            <image:caption>Comparative Analysis of Reconstruction-Based and Memory-Bank Approaches with Anomaly Localization using PatchCore and Convolutional Autoencoder</image:caption>
+        </image:image>
+
+        <!-- Project 2: Indonesian Sentence Embeddings -->
+        <image:image>
+            <image:loc>https://www.sultanfatahillah.my.id/projects/project%202.png</image:loc>
+            <image:title>Optimizing Indonesian Sentence Embeddings for Semantic Textual Similarity</image:title>
+            <image:caption>A Contrastive Fine-Tuning Study with Hard Negative Mining using IndoBERT and Sentence Transformers</image:caption>
+        </image:image>
+
+        <!-- Project 3: Emoji Pragmatic Signals -->
+        <image:image>
+            <image:loc>https://www.sultanfatahillah.my.id/projects/project%203.png</image:loc>
+            <image:title>Modeling Emoji as Pragmatic Signals in Social Media Text Using a Hybrid Transformer–Graph Neural Network Architecture</image:title>
+            <image:caption>EPGT: Emoji-aware Graph Neural Network + Transformer for Hate Speech Detection</image:caption>
+        </image:image>
+
+        <!-- Project 4: Sarcasm Intensity Classification -->
+        <image:image>
+            <image:loc>https://www.sultanfatahillah.my.id/projects/project%204.png</image:loc>
+            <image:title>Multi-Level Sarcasm Intensity Classification in Indonesian Social Media Using Hybrid Weak Supervision and Transformer-Based Models</image:title>
+            <image:caption>HSIL Framework for Indonesian Sarcasm Intensity Modeling with IndoBERT and XLM-R</image:caption>
+        </image:image>
+
+        <!-- Project 5: Noise-Robust Sentiment Classification -->
+        <image:image>
+            <image:loc>https://www.sultanfatahillah.my.id/projects/project%205.png</image:loc>
+            <image:title>Evaluasi Robustness Model Sentimen Bahasa Indonesia terhadap Noise Sintetis Menggunakan Arsitektur Hybrid Word-Character Lightweight</image:title>
+            <image:caption>Hybrid Word-Character Architecture for Noise-Robust Sentiment Classification in Indonesian Twitter</image:caption>
+        </image:image>
+
+        <!-- Project 6: Plant Disease Classification -->
+        <image:image>
+            <image:loc>https://www.sultanfatahillah.my.id/projects/project%206.png</image:loc>
+            <image:title>Klasifikasi Penyakit Daun Tanaman Menggunakan Convolutional Neural Network dengan Preprocessing Citra Digital</image:title>
+            <image:caption>Comparative Study of MobileNetV2 and EfficientNet-B0 on PlantVillage Dataset</image:caption>
+        </image:image>
+
+        <!-- Project 7: News Article Classification -->
+        <image:image>
+            <image:loc>https://www.sultanfatahillah.my.id/projects/project%207.png</image:loc>
+            <image:title>Multi-Class News Article Classification System Using an RNN-Based Bidirectional LSTM Model</image:title>
+            <image:caption>BiLSTM-Based Sequential Modeling for Automated News Categorization</image:caption>
+        </image:image>
+
+        <!-- Project 8: Book Recommendation System -->
+        <image:image>
+            <image:loc>https://www.sultanfatahillah.my.id/projects/project%208.png</image:loc>
+            <image:title>Sistem Rekomendasi Buku Berbasis Collaborative Filtering dengan Pendekatan Deep Learning</image:title>
+            <image:caption>Neural Collaborative Filtering for Personalized Book Recommendations using PyTorch</image:caption>
+        </image:image>
+
+        <!-- Project 9: Stock Price Prediction -->
+        <image:image>
+            <image:loc>https://www.sultanfatahillah.my.id/projects/project%209.png</image:loc>
+            <image:title>Prediksi Harga Saham Menggunakan LSTM dan Analisis Sentimen Berita Finansial</image:title>
+            <image:caption>Multimodal Stock Price Prediction with LSTM and News Sentiment Analysis on Indonesian Stock Market</image:caption>
+        </image:image>
+
+    </url>
 </urlset>
