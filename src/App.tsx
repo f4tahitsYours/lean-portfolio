@@ -659,8 +659,13 @@ export default function App() {
                 <div className="relative h-48 bg-dark-900 border-b border-white/5 overflow-hidden">
                   <img
                     src={`/projects/${encodeURIComponent(project.image)}`}
-                    alt={project.title}
+                    alt={`${project.title} - AI/ML Project by Sultan Syah Fatahillah showcasing ${project.tags.slice(0, 3).join(', ')}`}
+                    title={project.subtitle}
                     className="w-full h-full object-cover scale-110 transition-transform duration-500"
+                    loading={parseInt(project.id) <= 3 ? 'eager' : 'lazy'}
+                    decoding="async"
+                    width="400"
+                    height="300"
                     onError={(e) => {
                       const target = e.target as HTMLImageElement;
                       target.style.display = 'none';

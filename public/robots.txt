@@ -1,0 +1,11 @@
+
+# ==================================================
+# FATAHILLAH RAHMANI - OFFICIAL PORTFOLIO
+# https://sultanfatahillah.my.id
+# ==================================================
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://sultanfatahillah.my.id/sitemap.xml
