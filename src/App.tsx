@@ -42,10 +42,11 @@ export default function App() {
 
     // Typing effect
     const subTitlesArr = [
-      "AI/ML Researcher",
-      "Deep Learning Engineer",
-      "Computer Science Student",
-      "Python Specialist"
+      "AI & Machine Learing Specialist",
+      "Deep Learning Practitioner",
+      "Computer Vision Enthusiast",
+      "NLP Developer",
+      "Python Programmer"
     ];
 
     let timeoutId: ReturnType<typeof setTimeout>;
@@ -382,7 +383,7 @@ export default function App() {
               <h3 className="font-display font-bold text-lg text-white mb-4">AI / Machine Learning</h3>
               <ul className="space-y-3">
                 <li className="flex items-center gap-2.5 text-sm text-gray-300">
-                  <span className="w-1.5 h-1.5 rounded-full bg-brand-400"></span> TensorFlow
+                  <span className="w-1.5 h-1.5 rounded-full bg-brand-400"></span> TensorFlow & Keras
                 </li>
                 <li className="flex items-center gap-2.5 text-sm text-gray-300">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-400"></span> PyTorch
@@ -419,10 +420,13 @@ export default function App() {
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-accent"></span> SQL
                 </li>
                 <li className="flex items-center gap-2.5 text-sm text-gray-300">
-                  <span className="w-1.5 h-1.5 rounded-full bg-brand-accent"></span> HTML5 / CSS3
+                  <span className="w-1.5 h-1.5 rounded-full bg-brand-accent"></span> REST API Development
                 </li>
                 <li className="flex items-center gap-2.5 text-sm text-gray-300">
-                  <span className="w-1.5 h-1.5 rounded-full bg-brand-accent"></span> Shell Scripting
+                  <span className="w-1.5 h-1.5 rounded-full bg-brand-accent"></span> Data Structures & Algorithms
+                </li>
+                <li className="flex items-center gap-2.5 text-sm text-gray-300">
+                  <span className="w-1.5 h-1.5 rounded-full bg-brand-accent"></span> Git & GitHub
                 </li>
               </ul>
             </div>
@@ -432,19 +436,22 @@ export default function App() {
               <div className="w-12 h-12 rounded-xl bg-brand-500/10 border border-brand-500/20 flex items-center justify-center text-brand-400 mb-6">
                 <LucideIcons.Cloud className="w-6 h-6" />
               </div>
-              <h3 className="font-display font-bold text-lg text-white mb-4">Cloud & DevOps</h3>
+              <h3 className="font-display font-bold text-lg text-white mb-4">ML Engineering & Deployment</h3>
               <ul className="space-y-3">
                 <li className="flex items-center gap-2.5 text-sm text-gray-300">
-                  <span className="w-1.5 h-1.5 rounded-full bg-yellow-400"></span> Google Cloud Platform (GCP)
+                  <span className="w-1.5 h-1.5 rounded-full bg-yellow-400"></span> Hugging Face Transformers
                 </li>
                 <li className="flex items-center gap-2.5 text-sm text-gray-300">
-                  <span className="w-1.5 h-1.5 rounded-full bg-yellow-400"></span> Git & GitHub Actions
+                  <span className="w-1.5 h-1.5 rounded-full bg-yellow-400"></span> OpenCV
                 </li>
                 <li className="flex items-center gap-2.5 text-sm text-gray-300">
-                  <span className="w-1.5 h-1.5 rounded-full bg-yellow-400"></span> Linux Administration
+                  <span className="w-1.5 h-1.5 rounded-full bg-yellow-400"></span> FastAPI
                 </li>
                 <li className="flex items-center gap-2.5 text-sm text-gray-300">
-                  <span className="w-1.5 h-1.5 rounded-full bg-yellow-400"></span> CI/CD Workflows
+                  <span className="w-1.5 h-1.5 rounded-full bg-yellow-400"></span> MLflow
+                </li>
+                <li className="flex items-center gap-2.5 text-sm text-gray-300">
+                  <span className="w-1.5 h-1.5 rounded-full bg-yellow-400"></span> ONNX
                 </li>
                 <li className="flex items-center gap-2.5 text-sm text-gray-300">
                   <span className="w-1.5 h-1.5 rounded-full bg-yellow-400"></span> Model Deployment
@@ -460,19 +467,22 @@ export default function App() {
               <h3 className="font-display font-bold text-lg text-white mb-4">Data Analytics</h3>
               <ul className="space-y-3">
                 <li className="flex items-center gap-2.5 text-sm text-gray-300">
-                  <span className="w-1.5 h-1.5 rounded-full bg-brand-400"></span> Data Analysis
+                  <span className="w-1.5 h-1.5 rounded-full bg-brand-400"></span> Exploratory Data Analysis (EDA)
+                </li>
+                <li className="flex items-center gap-2.5 text-sm text-gray-300">
+                  <span className="w-1.5 h-1.5 rounded-full bg-brand-400"></span> Statistical Analysis
                 </li>
                 <li className="flex items-center gap-2.5 text-sm text-gray-300">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-400"></span> Feature Engineering
                 </li>
                 <li className="flex items-center gap-2.5 text-sm text-gray-300">
+                  <span className="w-1.5 h-1.5 rounded-full bg-brand-400"></span> Data Visualization
+                </li>
+                <li className="flex items-center gap-2.5 text-sm text-gray-300">
+                  <span className="w-1.5 h-1.5 rounded-full bg-brand-400"></span> Predictive Modeling
+                </li>
+                <li className="flex items-center gap-2.5 text-sm text-gray-300">
                   <span className="w-1.5 h-1.5 rounded-full bg-brand-400"></span> Model Evaluation
-                </li>
-                <li className="flex items-center gap-2.5 text-sm text-gray-300">
-                  <span className="w-1.5 h-1.5 rounded-full bg-brand-400"></span> Pandas & NumPy
-                </li>
-                <li className="flex items-center gap-2.5 text-sm text-gray-300">
-                  <span className="w-1.5 h-1.5 rounded-full bg-brand-400"></span> Tableau & BI Tooling
                 </li>
               </ul>
             </div>
